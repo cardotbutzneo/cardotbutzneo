@@ -2,23 +2,25 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong interest in computer science, applied mathematics, and artificial intelligence.
-I enjoy building efficient solutions, exploring algorithms, and turning complex problems into elegant code.
+I'm a passionate developer with a strong interest in computer science, applied mathematics, and artificial intelligence.  
+I'm particularly interested in actuarial science and quantitative finance.
+
+I love learning about new topics, especially in computer science and finance.
 
 ## 🛠️ Technical Skills
 
 * **Python** (Object-Oriented Programming)
 * **Web Development**: HTML, CSS, PHP, JavaScript
-* **C Programming**
+* **C/C++ Programming**
 * Data processing & problem solving
 * Algorithmic thinking
 
 ## 🎯 Interests
 
-* Software development (Python, C)
-* Applied mathematics in computer science
+* Software development (Python, C++)
+* Applied mathematics in computer science and finance
 * Data processing and analysis
-* Artificial Intelligence & Machine Learning
+* Risk management and numerical simulation
 
 ## 📫 Get in Touch
 
